@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "http://nospoonvue.github.io/openbadge/issuer-organization.json",
+    "type": "Issuer",
+    "name": "Frank Kroondijk",
+    "url": "https://www.teachitforward.eu"
+}
